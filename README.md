@@ -1,5 +1,8 @@
 # Cinema Ticket Booking Application (C++)
 
+![Intro Screen](https://github.com/TopGun2001/Cinema-Ticket-Booking-Application/blob/master/Images/Intro%20Screen.png)
+
+##
 
 ### <ins>**Introduction**</ins>
 
@@ -54,9 +57,24 @@ RAP CINEMAS is a fictional theatre application developed in C++ for booking cine
 ##
 
 
-### </ins>**Note**</ins>
+### <ins>**Note**</ins>
 
 Users are required to take note that the source code only works in Turbo C++ 1.0 version. This is because Turbo C++ IDE has all the required header files installed during installation process that are required for successful compilation of this application.
+
+##
+
+### <ins>**Images**</ins>
+
+![Help](https://github.com/TopGun2001/Cinema-Ticket-Booking-Application/blob/master/Images/Help.png)
+##
+
+![Movies](https://github.com/TopGun2001/Cinema-Ticket-Booking-Application/blob/master/Images/Movies.png)
+##
+
+![Theatre](https://github.com/TopGun2001/Cinema-Ticket-Booking-Application/blob/master/Images/Theatre.png)
+##
+
+
 
 
 
